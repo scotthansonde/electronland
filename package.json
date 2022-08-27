@@ -1,7 +1,7 @@
 {
   "name": "@scotthansonde/electronland",
   "description": "My version of a container for Electron apps that use nodeStorage and Twitter for identity.",
-  "version": "0.4.43a",
+  "version": "0.4.43b",
   "author": "Scott Hanson <papascott@gmail.com>",
   "contributor": "Dave Winer <dave@smallpicture.com>",
   "license": "MIT",
